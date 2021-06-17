@@ -1,1 +1,9 @@
+- Implizites Wissen in der NÖK - Bestehende Systeme / alteingesessene RE's
+- NÖK Onboarding Aufsetzen von Umgebungen / IJ / DBs - immer wieder nachfragen / selber mitdokumentieren
 
++ Home Automation - HassIO Doku/Community / NodeRed Howto's
+
+
+Privat: high level (Tasks) - & nice-to-know via Verlinkung
+Datengräber
+Training: Dokumentation via Listen/Chains - Motivation
